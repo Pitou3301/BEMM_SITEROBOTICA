@@ -8,10 +8,21 @@
 	color: #ffffff;
 	display: flex;
 	justify-content: space-around;
-	padding: 24px 0;
+	padding: 58px 0;
 }
-.c-item{
+.logo{
 	display: inline-block;
 margin: 0 16px;
-font-size: 20px;
+font-size: 38px;
+font-style: italic;
+}
+
+.projetos{
+	 display: inline-block;
+	 margin-top: 0px ;
+	 justify-content: center;
+}
+.nois{
+	display: inline;
+	justify-content: left;
 }
